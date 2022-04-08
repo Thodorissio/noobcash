@@ -201,5 +201,5 @@ Project Link: [https://github.com/adonistseriotis/noobcash](https://github.com/a
 [license-shield]: https://img.shields.io/github/license/adonistseriotis/noobcash.svg?style=for-the-badge
 [license-url]: https://github.com/adonistseriotis/noobcash/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/adonis-tseriotis-b4b5a7232/
+[linkedin-url]: https://www.linkedin.com/in/theodoros-siozos-8b8817205/
 [product-screenshot]: assets/screenshot.png
